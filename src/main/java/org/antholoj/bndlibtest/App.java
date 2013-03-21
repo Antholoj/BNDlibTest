@@ -3,8 +3,6 @@ package org.antholoj.bndlibtest;
 import aQute.bnd.build.Project;
 import aQute.bnd.build.model.BndEditModel;
 import aQute.bnd.build.model.clauses.ExportedPackage;
-import aQute.bnd.osgi.Analyzer;
-import java.io.File;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.List;
